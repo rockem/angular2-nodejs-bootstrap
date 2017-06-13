@@ -1,0 +1,5 @@
+filePath: /opt/agt/raw_video/
+bucket: raw-videos.heedapps.io
+clipMakerServiceDomain: int-k8s-clip-maker-service.heedapps.io
+clipMakerServiceDomainPort: 80
+defaultPoolingInterval: 2000

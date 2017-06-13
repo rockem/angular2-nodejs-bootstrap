@@ -1,0 +1,5 @@
+filePath: spec/video
+bucket: test-raw-videos.heedapps.io
+clipMakerServiceDomain: localhost
+clipMakerServiceDomainPort: 9000
+defaultPoolingInterval: 100
