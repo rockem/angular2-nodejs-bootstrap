@@ -1,3 +1,10 @@
-# HEED Content dashboard
+# Angular2-NodeJS 
 
-This service is for displaying videos that were generated in the HEED platform
+## Technologies used:
+* Angular 2
+* NodeJS
+* Express
+* Gulp
+* Docker
+* Mocha
+* Protractor
